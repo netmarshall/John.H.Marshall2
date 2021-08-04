@@ -17,7 +17,7 @@ Accomplished actor, student, and leader. Effective organizer who works comfortab
 
 ## Performances
 
-| [The Importance of Being Eernest in a Pandemic](https://events.uta.edu/event/the_importance_of_being_earnest_in_a_pandemic?utm_campaign=widget&utm_medium=widget&utm_source=University+of+Texas+at+Arlington#.YQsEhIhKiUk) | Algernon Moncrieff | [UT Arlington Theatre](https://www.uta.edu/academics/schools-colleges/liberal-arts/departments/theatre) April 2021 |
+| [The Importance of Being Earnest in a Pandemic](https://events.uta.edu/event/the_importance_of_being_earnest_in_a_pandemic?utm_campaign=widget&utm_medium=widget&utm_source=University+of+Texas+at+Arlington#.YQsEhIhKiUk) | Algernon Moncrieff | [UT Arlington Theatre](https://www.uta.edu/academics/schools-colleges/liberal-arts/departments/theatre)  April 2021 |
 | [Balm in Gilead](https://events.uta.edu/event/balm_in_gilead?utm_campaign=widget&utm_medium=widget&utm_source=University+of+Texas+at+Arlington#.YQsFNYhKiUk) | Frank | [UT Arlington Theatre](https://www.uta.edu/academics/schools-colleges/liberal-arts/departments/theatre) November 2020 |
 | [Eurydice](https://netmarshall.github.io/John.H.Marshall/gallery/#eurydice) | Father | [Plano Senior High School](https://www.pshstheatre.com/about) March 2020 |
 | [Chicago](https://netmarshall.github.io/John.H.Marshall/gallery/#chicago) | Alvin Lipschitz \| Announcer \| <br>Jury \| Ensemble | [Plano Senior High School](https://www.pshstheatre.com/about) Jan. 2020 |
