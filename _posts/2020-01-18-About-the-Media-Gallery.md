@@ -1,5 +1,5 @@
 ---
-title: "About the Media Gallery"
+title: "About this Site
 date: 2020-02-18T15:34:30-04:00
 categories:
   - blog
@@ -7,6 +7,8 @@ tags:
   - Media
   
 ---
+I am still learing about GitHub, but if you are curious about this site, it is hosted for free (really, 100% free) in GitHub Pages, and is built using the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme (also 100% free). 
+
 The [Media Gallery](https://netmarshall.github.io/John.H.Marshall/gallery/) has 200+ photos from 20+ productions. It would be **crazy** to try to embed each photo individually (and a nightmare to maintain). After a bit of searching, we found a solution that works using Google Photos Albums, and a web viewer from [publicalbum.org](https://www.publicalbum.org/blog/embedding-google-photos-albums). 
 
 The web viewer is great, and lets people scroll (or swipe) through each show, and also expands to fill the browser window or even full screen. It also supports automated slide shows (with or without looping) as well as downloads.
