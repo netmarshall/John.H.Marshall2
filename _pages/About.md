@@ -49,6 +49,9 @@ Accomplished actor, student, and leader. Effective organizer who works comfortab
 
 ## Education & Experience
 
+**The University of Texas at Arlington (UTA)**: 
+* Candidate, BFA Performance (December 2023)
+
 **Plano Senior High School (PSHS)**: 
 * Graduated Magna Cum Laude (June 2020)
 * National Merit Scholarship Program Letter of Commendation 
@@ -67,6 +70,8 @@ Accomplished actor, student, and leader. Effective organizer who works comfortab
 
 **Theatrical Training**:
 
+| Acting | UTA (Harrintine, Booker, Chapa, Whitsett) 2020-2021 |
+| Improv | UTA (Chapa, Rawley) 2020-2021 |
 | Acting | PSHS [Theatre Production III & IV](https://www.pisd.edu/Page/1161) (Ballard) 2018-2020 |
 | Voice | [Feledichuk Music Studio](https://feledichuk.musicteachershelper.com/Introduction) June 2019-Present |
 | Voice \| Dance | PSHS [Musical Theatre I & II](https://www.pisd.edu/Page/1161) (Lozana/Ballard/Newby) 2018-2020 |
