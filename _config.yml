@@ -73,7 +73,7 @@ plugins:
 author:
   name   : "John Marshall"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Height: 5’10” <br>Weight: 150 <br>Voice: Bass"
+  bio    : "Height: 5’10” <br>Weight: 155 <br>Voice: Bass"
   links:
     - label: "john.hughes.marshall@gmail.com"
       icon: "fas fa-envelope"
